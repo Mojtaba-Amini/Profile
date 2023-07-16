@@ -16,7 +16,7 @@
 To see all the other badges are [here](https://www.credly.com/users/pemtajo/badges)
 
 <!--START_SECTION:badges-->
-[![Git and GitHub Essentials](https://acclaim-production-app.files.credly.com/uploads/baked_badge_image/image/c4598d13-1911-4b0d-9d9a-aae407acc121/git-and-github-essentials.1.png?response-content-disposition=attachment&X-Amz-Expires=86400&X-Amz-Date=20230713T133331Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJLA3MEMCDJNPNG2Q%2F20230713%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=521c9466f5f9526ff7d4ea9e709dfbe8adb78ec791e0b2e7d3d1954b43029222)](http://www.credly.com/badges/d90c7bdd-49d2-4028-a6cd-02a47899e72 "Git and GitHub Essentials")
+[![Git and GitHub Essentials](https://acclaim-production-app.files.credly.com/uploads/baked_badge_image/image/c4598d13-1911-4b0d-9d9a-aae407acc121/git-and-github-essentials.1.png?response-content-disposition=attachment&X-Amz-Expires=86400&X-Amz-Date=20230713T133331Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJLA3MEMCDJNPNG2Q%2F20230713%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=521c9466f5f9526ff7d4ea9e709dfbe8adb78ec791e0b2e7d3d1954b43029222)](http://www.credly.com/badges/2b4fb4e7-0983-469f-8082-fd79dc73d95d "Git and GitHub Essentials")
 
 <!--END_SECTION:badges-->
 
