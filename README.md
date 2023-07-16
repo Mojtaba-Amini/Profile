@@ -28,11 +28,11 @@ To see all the other badges are [here](https://www.credly.com/users/mojtaba-amin
 ```txt
 From: 08 July 2023 - To: 15 July 2023
 
-Clojure      9 hrs 23 mins   █████████████████▓░░░░░░░   70.08 %
-Other        2 hrs 28 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.51 %
-JSON         36 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 %
-YAML         19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.37 %
-Python       17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.14 %
+Python        9 hrs 23 mins   █████████████████▓░░░░░░░   70.08 %
+Git           2 hrs 28 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.51 %
+Ducker        36 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 %
+Kubernatize   19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.37 %
+Other         17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.14 %
 ```
 
 <!--END_SECTION:waka-->
